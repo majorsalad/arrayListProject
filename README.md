@@ -1,5 +1,5 @@
 # arrayListProject [Java]
-A project that simulates the rudimentary functions of a Mobile Phone. Adding, deleting, editing, searching, and printing off contacts.
+A project that simulates the rudimentary functions of a Mobile Phone. Adding, deleting, editing, searching, and printing off contacts. There are three classes in total. The main class, the Contact class, and the MobilePhone class where the bulk of the code lies. The MobilePhone class utilizes composition, because a MobilePhone "has-a" contacts list. It's there that we have the list of Contact objects as well as the functions of the phone. The main method is just our driver for bringing the code to action.
 
 # How it works
 - Clone the repository onto your local machine
